@@ -1,24 +1,8 @@
 - title: Chat Room 
-  subtitle: A simple chat room that allows people to chat. Uses WebSocket technology enabled by the Socket.io library. 
-  subtitle2: "** Note Open up the app in two separate browser tabs to send messages between them. **"
+  subtitle: A simple chat room that allows people to chat. Built with React.js, uses WebSocket technology enabled by the Socket.io library. 
+  subtitle2: "** Note: Open up the app in two separate browser tabs to send messages between them (and to anyone else currently using the app). **"
   link: https://real-time-chat-room-99.herokuapp.com/ 
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
-
-- title: Age Calculator
-  subtitle: Get Your Age
-  link: https://github.com/Mr404Found/AgeCalculator
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Mini Message Board 
+  subtitle: A simple message board created with Node.js and Express.
+  link: http://guarded-eyrie-98668.herokuapp.com/ 
