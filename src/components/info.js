@@ -18,7 +18,7 @@ export default function info() {
       <div className="text-muted mx-5 my-4 h3 text-justify info">
           I'm looking for a new opportunity to solve problems for your business.
           <br/>
-          My specialty is in the React and Node.js stack, as well as Java Spring Boot. 
+          My specialty is working with React and Node.js, as well as Java Spring Boot. 
           <br/>
           Please contact <a href="mailto://caldertrombley@gmail.com"><u>Contact Me</u></a> if you need any help!
         <br /> 
@@ -31,7 +31,7 @@ export default function info() {
         <a className="mr-5 icon" href="https://www.linkedin.com/in/caldertrombley/">
           <LinkedIn/>
         </a>
-        <a className="mr-5 icon" href="mailto://caldertrombley@gmail.com">
+        <a className="mr-5 icon" href="mailto:caldertrombley@gmail.com">
           <Mail />
         </a>
       </div>
