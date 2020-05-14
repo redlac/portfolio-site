@@ -1,8 +1,8 @@
 - title: Chat Room 
-  subtitle: A simple chat room that allows people to chat. Built with React.js, uses WebSocket technology enabled by the Socket.io library. 
+  subtitle: A simple chat room that allows people to chat. Built with React.js and Material UI, uses WebSocket technology enabled by the Socket.io library. 
   subtitle2: "** Note: Open up the app in two separate browser tabs to send messages between them (and to anyone else currently using the app). **"
   link: https://real-time-chat-room-99.herokuapp.com/ 
 
 - title: Mini Message Board 
-  subtitle: A simple message board created with Node.js and Express.
+  subtitle: A simple message board created with Node.js, Express, React, and Material UI.
   link: http://guarded-eyrie-98668.herokuapp.com/ 

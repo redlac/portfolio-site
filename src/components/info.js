@@ -14,9 +14,9 @@ export default function info() {
         <span style = {{color : "white"}}>Hi, I'm</span> <br />
         Calder.
       </div>
-      <div className="h1 code mt-4 mb-3">async {"{"}</div>
+      <div className="h1 code mt-4 mb-3">software developer{"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
-          I'm looking for a new opportunity to solve problems for your business.
+          I'm always looking for new opportunities to solve problems for your business.
           <br/>
           My specialty is working with React and Node.js, as well as Java Spring Boot. 
           <br/>
