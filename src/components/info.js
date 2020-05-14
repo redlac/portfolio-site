@@ -1,10 +1,8 @@
 import React from "react"
 
 import {
-  FaTwitter as Twitter,
+  FaLinkedin as LinkedIn,
   FaGithub as Github,
-  FaYoutube as Youtube,
-  FaInstagram as Insta,
   FaEnvelope as Mail,
 } from "react-icons/fa"
 
@@ -13,34 +11,27 @@ export default function info() {
     <div className="container">
       <div className="my-5"></div>
       <div className="display-3" style={{ color: "#FF8A00" }}>
-        <span style = {{color : "white"}}>Hello, I'm</span> <br />
-        Sumanth.
+        <span style = {{color : "white"}}>Hi, I'm</span> <br />
+        Calder.
       </div>
       <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
-        A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
-        Developer.
-        <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et.
+          I'm looking for a new opportunity to solve problems for your business.
+          <br/>
+          My specialty is in the React and Node.js stack, as well as Java Spring Boot. 
+          <br/>
+          Please contact <a href="mailto://caldertrombley@gmail.com"><u>Contact Me</u></a> if you need any help!
+        <br /> 
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
-        <a className="mr-5 icon" href="https://twitter.com/Mr404Found">
-          <Twitter />
-        </a>
-        <a className="mr-5 icon" href="https://instagram.com/sumanth.zero7">
-          <Insta />
-        </a>
-        <a className="mr-5 icon" href="https://github.com/Mr404Found">
+        <a className="mr-5 icon" href="https://github.com/redlac">
           <Github />
         </a>
-        <a
-          className="mr-5 icon"
-          href="https://www.youtube.com/channel/UCw0FDIL-HpcfzEZrjcQwhMQ"
-        >
-          <Youtube />
+        <a className="mr-5 icon" href="https://www.linkedin.com/in/caldertrombley/">
+          <LinkedIn/>
         </a>
-        <a className="mr-5 icon" href="mailto://contactmr404here@gmail.com">
+        <a className="mr-5 icon" href="mailto://caldertrombley@gmail.com">
           <Mail />
         </a>
       </div>

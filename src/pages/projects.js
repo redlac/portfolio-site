@@ -13,7 +13,7 @@ function Projects({ data }) {
       <Appbar />
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Projects | Sumanth</title>
+        <title>Projects | Calder Trombley</title>
       </Helmet>
       <div className="row">
         {projectList.map(({ node }) => {
@@ -21,6 +21,7 @@ function Projects({ data }) {
             <Card
               cardTitle={node.title}
               cardSubtitle={node.subtitle}
+              cardSubtitle2={node.subtitle2}
               link={node.link}
               key={node.id}
             />
@@ -40,6 +41,7 @@ export const query = graphql`
         node {
           title
           subtitle
+          subtitle2
           link
           id
         }

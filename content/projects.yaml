@@ -1,6 +1,7 @@
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Chat Room 
+  subtitle: A simple chat room that allows people to chat. Uses WebSocket technology enabled by the Socket.io library. 
+  subtitle2: "** Note Open up the app in two separate browser tabs to send messages between them. **"
+  link: https://real-time-chat-room-99.herokuapp.com/ 
 
 - title: Basic Music
   subtitle: Basic Music Player That lets you to play music
