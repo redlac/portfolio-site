@@ -20,7 +20,7 @@ export default function info() {
           <br/>
           My specialty is working with React and Node.js, as well as Java Spring Boot. 
           <br/>
-          Please contact <a href="mailto://caldertrombley@gmail.com"><u>Contact Me</u></a> if you need any help!
+          Please contact <a href="mailto:caldertrombley@gmail.com"><u>Contact Me</u></a> if you need any help!
         <br /> 
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
