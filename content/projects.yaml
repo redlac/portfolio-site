@@ -6,3 +6,7 @@
 - title: Mini Message Board 
   subtitle: A simple message board created with Node.js, Express, React, and Material UI.
   link: http://guarded-eyrie-98668.herokuapp.com/ 
+
+- title: Hacker News Job Application
+  subtitle: This is a pure Node.js program that polls https://news.ycombinator.com/ every six hours, and sends an email to myself whenever a new "Who's Hiring?" thread is posted.
+  link: https://github.com/redlac/hacker-news-job-notifier 
