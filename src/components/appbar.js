@@ -12,7 +12,7 @@ export default function Appbar() {
           <Intent to="/projects">Projects</Intent>
         </li>
         <li className="nav-item mx-4">
-          <Intent to="https://flamboyant-cray-f7bbf5.netlify.app/">Blog</Intent>
+          <Intent to='https://flamboyant-cray-f7bbf5.netlify.app/'>Blog</Intent>
         </li>
       </ul>
     </div>
