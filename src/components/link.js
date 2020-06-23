@@ -28,7 +28,7 @@ export default function Intent({ children, to }) {
       style={{
         color: "grey",
       }}
-      href="https://happy-cori-96ef5a.netlify.app/blog/">
+      href="https://flamboyant-cray-f7bbf5.netlify.app/">
       {children}
       </a>
 
